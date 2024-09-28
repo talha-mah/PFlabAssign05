@@ -1,3 +1,7 @@
+// PROBLEM 14
+// Develop a program that uses logical operators to determine if a person is eligible for a loan
+// based on age, income, and credit score.
+
 #include <stdio.h>
 
 int main() {
