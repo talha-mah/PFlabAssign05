@@ -1,3 +1,6 @@
+// PROBLEM 10
+// Create a program that calculates the sum of digits of a number until the result is a single digit (e.g., 123 -> 6).
+
 #include <stdio.h>
 
 int sum_of_digits(int n) {
