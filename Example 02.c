@@ -1,3 +1,7 @@
+// EXAMPLE 02
+// Create a program that asks the user for the temperature and categorizes it into different levels 
+// using nested if-else statements. The innermost condition checks if the temperature is extremely hot. 
+
 #include <stdio.h>
 
 int main() {
