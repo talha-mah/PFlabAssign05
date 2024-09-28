@@ -1,3 +1,6 @@
+// PROBLEM 05
+// Write a program using a ternary operator to find the maximum of two numbers.
+
 #include <stdio.h>
 
 int main() {
