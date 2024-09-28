@@ -1,3 +1,7 @@
+// PROBLEM 12
+// Create a program that calculates the final grade of a student based on multiple criteria,
+// including attendance, assignment scores, and exam results, using nested decision structures.
+
 #include <stdio.h>
 
 int main() {
