@@ -1,3 +1,6 @@
+// PROBLEM 07
+// Write a program to swap two numbers using bitwise XOR.
+
 #include <stdio.h>
 
 int main() {
