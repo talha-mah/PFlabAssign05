@@ -1,3 +1,6 @@
+// PROBLEM 03
+// Write a program that checks if a number is divisible by both 3 and 5 using logical operators.
+
 #include <stdio.h>
 
 int main() {
