@@ -1,3 +1,6 @@
+// EXAMPLE 01
+// Build a grading system, you might want to check if a student’s score is above a certain threshold, and within that, decide if it's an 'A' or a 'B'.
+
 #include <stdio.h>
 
 int main() {
