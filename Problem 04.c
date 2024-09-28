@@ -1,3 +1,6 @@
+// PROBLEM 04
+// Create a program that checks if a person is eligible to vote based on their age and citizenship status.
+
 #include <stdio.h>
 
 int main() {
