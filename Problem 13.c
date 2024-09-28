@@ -1,3 +1,6 @@
+// PROBLEM 13
+// Write a program that uses bitwise operators to perform encryption and decryption of a character.
+
 #include <stdio.h>
 
 char encrypt(char c) {
