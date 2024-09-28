@@ -1,3 +1,6 @@
+// PROBLEM 09
+// Write a program that checks if a year is a leap year using the modulus operator.
+
 #include <stdio.h>
 
 int main() {
