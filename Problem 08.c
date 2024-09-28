@@ -1,3 +1,6 @@
+// PROBLEM 08
+// Create a program that counts the number of 1s in the binary representation of a number.
+
 #include <stdio.h>
 
 int main() {
