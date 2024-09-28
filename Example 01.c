@@ -6,15 +6,27 @@
 
 int main() {
 
-int age = 20;
-int hasLicense = 1;
+int score;
+printf("Enter your score: ");
+scanf("%d", &score);
 
-if (age >= 18 && hasLicense) {
-printf("You are eligible to drive.\n");
+if (score >= 90) {
+if (score >= 95) {
+  printf("Grade: A+\n");
 } else {
-printf("You are not eligible to drive.\n");
+  printf("Grade: A\n");
+}
+} else if (score >= 80) {
+  if (score >= 85) {
+  printf("Grade: B+\n");
+} 
+  else {
+  printf("Grade: B\n");
+}
+} 
+  else {
+  printf("Grade: C or lower\n");
 }
 
 return 0;
-
 }
