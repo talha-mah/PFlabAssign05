@@ -1,3 +1,7 @@
+// PROBLEM 02
+// Create a program that determines if a number is positive, negative, or zero and if it’s positive,
+// checks if it’s an even or odd number.
+
 #include <stdio.h>
 
 int main() {
